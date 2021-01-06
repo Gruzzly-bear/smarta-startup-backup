@@ -28,7 +28,7 @@ const useStyles = makeStyles({
     borderTopRightRadius: "10px",
   },
 
-  snapShot: { // styling for the nspashot main section. Smaller cards are individually styled.
+  snapShot: { // Styling for the nspashot main section. Smaller cards are individually styled.
     flexgrow: 1,
     height: '7rem',
     marginLeft: '1rem',
@@ -50,7 +50,7 @@ const useStyles = makeStyles({
     borderTopLeftRadius: "10px",
     borderTopRightRadius: "10px",
   },
-  faq: { // styling for the FAQ card. Static.
+  faq: { // Styling for the FAQ card. Static.
     flexgrow: 1,
     marginTop: '0.5rem',
     height: '16rem',
@@ -62,7 +62,7 @@ const useStyles = makeStyles({
     borderTopRightRadius: "10px",
     paddingBottom: '1rem',
   },
-  roomMate: { // styling of the roommate section. Card only.
+  roomMate: { // Styling of the roommate section. Card only.
     flexgrow: 1,
     marginTop: '0.5rem',
     height: '14rem',
